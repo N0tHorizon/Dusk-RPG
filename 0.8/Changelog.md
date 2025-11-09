@@ -27,3 +27,4 @@
 - Added Shulker Box Tooltip
 - Added Concurrent Chunk Management Engine (Fabric)
 - Added Wavey Capes
+- removed polydoodads
