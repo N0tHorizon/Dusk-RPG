@@ -1,4 +1,4 @@
-- Added Trinkets Compat Layer for Accessories
+
 - Updated Trinkets
 - Removed Additional Jewrley
 - Removed Trinkets (Polymer Port)
