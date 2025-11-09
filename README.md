@@ -7,7 +7,10 @@
 - 🏆 Achivements - Player Stats Progression by Aolu
 - 💪 Armor - Armory by ZsoltMolnarrr
 - ☀️ Shaders - Iris Shaders
-- 💡 Improved HUD - Jade by Snownee, JEI by mezz
+- 💡 Improved HUD - Jade by Snownee, EMI by Emi
+- 📿 Accessories - Trinkets by Emi
+- 🥈 Skills - LevelZ by Globox1997
+- 💻 Performance - Sodium by CaffineMC, FerriteCore by malte0811
 
 ![Content Divider](https://cdn.modrinth.com/data/cached_images/66a50a14cffe058b118999ec98058601ce3ab40a_0.webp)
 ## ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ FAQ
