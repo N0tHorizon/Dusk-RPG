@@ -1,0 +1,29 @@
+- Added Trinkets Compat Layer for Accessories
+- Updated Trinkets
+- Removed Additional Jewrley
+- Removed Trinkets (Polymer Port)
+- Removed Polymer
+- Added Modern Fix
+- Added Dynamic FPS
+- Added Zoomify
+- Added Debugify
+- Added Enhanced Block Entities
+- Added More Chat History
+- Added Chest Tracker
+- Added Loot Beams Up
+- Added Loot Bags
+- Added EMI
+- Added EMI Loot
+- Added EMI Enchanting
+- Added EMI Ores
+- Removed JEI
+- Added FallingTree
+- Added Better Archeology
+- Added Better Combat
+- Added Better Beds
+- Added Gekolib
+- Added Architectury API
+- Added Cherished Worlds
+- Added Shulker Box Tooltip
+- Added Concurrent Chunk Management Engine (Fabric)
+- Added Wavey Capes
