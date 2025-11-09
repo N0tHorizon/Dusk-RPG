@@ -1,4 +1,4 @@
-
+- Added Nameless Trinkets
 - Updated Trinkets
 - Removed Additional Jewrley
 - Removed Trinkets (Polymer Port)
@@ -23,8 +23,20 @@
 - Added Better Beds
 - Added Gekolib
 - Added Architectury API
+- Added The Ancient Trinkets Index
 - Added Cherished Worlds
 - Added Shulker Box Tooltip
 - Added Concurrent Chunk Management Engine (Fabric)
+- Updated Spell Engine
+- Updated playerAnimator
+- Updated Spell Power Attributes
+- Added LevelZ Archers
+- Added LevelZ Rouges and Warriors
+- Added LevelZ Jewelry
+- Added LevelZ Pladins and Priests
+- Added LevelZ Wizards
+- Added Biomes O' Plenty
+- Added Libz
+- Updated Glitch Core
 - Added Wavey Capes
 - removed polydoodads
